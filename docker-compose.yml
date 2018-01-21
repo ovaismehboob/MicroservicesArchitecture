@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  vendor.api:
+    image: vendor.api
+    build:
+      context: .
+      dockerfile: src\Microservices\Vendor\Vendor.API\Dockerfile
+
+  identity.api:
+    image: identity.api
+    build:
+      context: .
+      dockerfile: src\Microservices\Identity\Identity.API\Dockerfile
+
+  admin.api:
+    image: admin.api
+    build:
+      context: .
+      dockerfile: src\Microservices\Admin\Admin.API\Dockerfile
+
