@@ -6,16 +6,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Controllers\SimpleAuthorizationController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="wwwroot\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="AspNet.Security.OAuth.Validation" Version="2.0.0-rc1-final" />
+    <PackageReference Include="AspNet.Security.OpenIdConnect.Server" Version="2.0.0-rc1-final" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.0.1" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
-    <PackageReference Include="OpenIddict" Version="2.0.0-rc2-0792" />
-    <PackageReference Include="OpenIddict.EntityFrameworkCore" Version="2.0.0-rc2-0792" />
-    <PackageReference Include="OpenIddict.Mvc" Version="2.0.0-rc2-0792" />
+    <PackageReference Include="OpenIddict" Version="2.0.0-rc2-0797" />
+    <PackageReference Include="OpenIddict.Core" Version="2.0.0-rc2-0797" />
+    <PackageReference Include="OpenIddict.EntityFrameworkCore" Version="2.0.0-rc2-0797" />
+    <PackageReference Include="OpenIddict.Models" Version="2.0.0-rc2-0797" />
+    <PackageReference Include="OpenIddict.Mvc" Version="2.0.0-rc2-0797" />
   </ItemGroup>
 
   <ItemGroup>

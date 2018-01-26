@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AspNet.Security.OAuth.Validation;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -10,8 +11,10 @@ namespace Identity.API.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+
+        [Authorize(AuthenticationSchemes =OAuthValidationDefaults.AuthenticationScheme)]
         // GET api/values
-        [Authorize, HttpGet]
+        [HttpGet("~/api/values")]
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
