@@ -9,6 +9,7 @@ namespace Vendor.Models.VendorModel
 {
     public class VendorDocument : BaseEntity
     {
+
         [Key]
         public int ID { get; set; }
         public string DocumentName { get; set; }
@@ -16,9 +17,9 @@ namespace Vendor.Models.VendorModel
         public Byte[] DocumentContent { get; set; }
         public DateTime DocumentExpiry { get; set; }
 
-        public int VendorMasterId { get; set; }
+        public int VendorMasterID { get; set; }
 
-        [ForeignKey("VendorMasterId")]
+        [ForeignKey("VendorMasterID")]
         public VendorMaster VendorMaster { get; set; }
 
 

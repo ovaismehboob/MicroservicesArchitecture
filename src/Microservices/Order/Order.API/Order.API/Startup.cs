@@ -1,21 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Reflection;
 using System.Threading.Tasks;
-using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using Vendor.Domain.Models.VendorModel;
-using Vendor.Infrastructure;
-using Vendor.Infrastructure.Repositories;
 
-namespace Vendor.API
+namespace Order.API
 {
     public class Startup
     {
@@ -29,21 +23,7 @@ namespace Vendor.API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddScoped<VendorDBContext>();
-            services.AddScoped<IVendorRepository, VendorRepository>();
-            services.AddMediatR();
             services.AddMvc();
-            services.AddEntityFrameworkSqlServer()
-                .AddDbContext<VendorDBContext>(options =>
-                {
-                    options.UseSqlServer(Configuration["ConnectionString"],
-                        sqlServerOptionsAction: sqlOptions =>
-                       {
-                           sqlOptions.MigrationsAssembly(typeof(Startup).GetTypeInfo().Assembly.GetName().Name);
-                           sqlOptions.EnableRetryOnFailure(maxRetryCount: 10, maxRetryDelay: TimeSpan.FromSeconds(30), errorNumbersToAdd: null);
-                       });
-                }, ServiceLifetime.Scoped
-                );
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

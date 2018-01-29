@@ -19,3 +19,10 @@ services:
       context: .
       dockerfile: src\Microservices\Admin\Admin.API\Dockerfile
 
+
+  order.api:
+    image: order.api
+    build:
+      context: .
+      dockerfile: src\Microservices\Order\Order.API\Order.API\Dockerfile
+

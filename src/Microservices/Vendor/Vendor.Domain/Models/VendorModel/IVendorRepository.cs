@@ -13,5 +13,9 @@ namespace Vendor.Domain.Models.VendorModel
         void Update(VendorMaster vendorMaster);
 
         Task<VendorMaster> GetAsync(int vendorID);
+
+        void Add(VendorDocument vendorDocument);
+
+        void Delete(int vendorDocumentID);
     }
 }
