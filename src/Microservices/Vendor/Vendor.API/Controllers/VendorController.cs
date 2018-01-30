@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
+using AspNet.Security.OAuth.Introspection;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Vendor.API.Commands;
@@ -34,7 +37,8 @@ namespace Vendor.API.Controllers
         {
             return "value";
         }
-        
+
+        [Authorize(AuthenticationSchemes = OAuthIntrospectionDefaults.AuthenticationScheme)]
         // POST: api/VendorMaster
         [HttpPost]
         public void Post([FromBody]VendorViewModel value)

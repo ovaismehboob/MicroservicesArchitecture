@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using AspNet.Security.OAuth.Introspection;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -32,6 +33,25 @@ namespace Vendor.API
             services.AddScoped<VendorDBContext>();
             services.AddScoped<IVendorRepository, VendorRepository>();
             services.AddMediatR();
+
+            services.AddAuthentication(options =>
+            {
+                options.DefaultScheme = OAuthIntrospectionDefaults.AuthenticationScheme;
+            }).AddOAuthIntrospection(options =>
+             {
+                 options.Authority = new Uri("http://localhost:22440/");
+                 options.Audiences.Add("vendor-api");
+                 options.ClientId = "vendor-api";
+                 options.ClientSecret = "846B62D0-DEF9-4215-A99D-86E6B8DAB342";
+                 options.RequireHttpsMetadata = false;
+
+                    // Note: you can override the default name and role claims:
+                    // options.NameClaimType = "custom_name_claim";
+                    // options.RoleClaimType = "custom_role_claim";
+                });
+
+
+
             services.AddMvc();
             services.AddEntityFrameworkSqlServer()
                 .AddDbContext<VendorDBContext>(options =>
@@ -53,7 +73,7 @@ namespace Vendor.API
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseAuthentication();
             app.UseMvc();
         }
     }

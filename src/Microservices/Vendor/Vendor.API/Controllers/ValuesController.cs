@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AspNet.Security.OAuth.Introspection;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Vendor.API.Controllers
@@ -9,6 +11,8 @@ namespace Vendor.API.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
+
+        [Authorize(AuthenticationSchemes = OAuthIntrospectionDefaults.AuthenticationScheme)]
         // GET api/values
         [HttpGet]
         public IEnumerable<string> Get()
