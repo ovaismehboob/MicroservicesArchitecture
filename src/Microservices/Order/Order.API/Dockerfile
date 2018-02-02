@@ -5,10 +5,10 @@ EXPOSE 80
 FROM microsoft/aspnetcore-build:2.0-nanoserver-1709 AS build
 WORKDIR /src
 COPY *.sln ./
-COPY src/Microservices/Order/Order.API/Order.API/Order.API.csproj src/Microservices/Order/Order.API/Order.API/
+COPY src/Microservices/Order/Order.API/Order.API.csproj src/Microservices/Order/Order.API/
 RUN dotnet restore
 COPY . .
-WORKDIR /src/src/Microservices/Order/Order.API/Order.API
+WORKDIR /src/src/Microservices/Order/Order.API
 RUN dotnet build -c Release -o /app
 
 FROM build AS publish

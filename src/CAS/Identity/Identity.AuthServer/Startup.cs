@@ -31,7 +31,7 @@ namespace Identity.AuthServer
         public void ConfigureServices(IServiceCollection services)
         {
    
-             var connection = @"Server=OVAISPC\sqlexpress;Database=FraymsIdentityDB;User Id=sa;Password=P@ssw0rd;";
+             var connection = @"Server=.\sqlexpress;Database=FraymsIdentityDB;User Id=sa;Password=P@ssw0rd;";
 
             services.AddDbContext<BFIdentityContext>(options =>
             {
