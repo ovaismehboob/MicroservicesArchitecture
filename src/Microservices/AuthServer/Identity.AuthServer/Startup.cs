@@ -127,7 +127,7 @@ namespace Identity.AuthServer
                 builder.AllowAnyMethod();
             });
 
-            app.UseAuthentication();
+                app.UseAuthentication();
 
             app.UseMvcWithDefaultRoute();
 

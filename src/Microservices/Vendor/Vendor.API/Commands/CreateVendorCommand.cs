@@ -13,6 +13,7 @@ namespace Vendor.API.Commands
 
         [DataMember]
         public VendorViewModel VendorViewModel { get; set; }
+
         public CreateVendorCommand(VendorViewModel vendorViewModel)
         {
             VendorViewModel = vendorViewModel;

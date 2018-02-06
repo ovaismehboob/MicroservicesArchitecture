@@ -11,7 +11,7 @@ services:
     image: identity.api
     build:
       context: .
-      dockerfile: src\CAS\Identity\Identity.AuthServer\Dockerfile
+      dockerfile: src\Microservices\AuthServer\Identity.AuthServer\Dockerfile
 
   admin.api:
     image: admin.api

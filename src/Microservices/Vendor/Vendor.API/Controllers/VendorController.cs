@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Vendor.API.Commands;
+using Vendor.API.Notifications;
 using Vendor.API.ViewModels;
 
 namespace Vendor.API.Controllers
@@ -44,6 +45,11 @@ namespace Vendor.API.Controllers
         public void Post([FromBody]VendorViewModel value)
         {
             bool result=_mediator.Send(new CreateVendorCommand(value)).Result;
+            if (result)
+            {
+                //Record saved succesfully, publishing event now
+                _mediator.Publish(new CreateVendorNotification(value));
+            }
             
 
         }
