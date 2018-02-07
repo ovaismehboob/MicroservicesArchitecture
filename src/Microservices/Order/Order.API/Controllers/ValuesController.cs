@@ -12,6 +12,7 @@ namespace Order.API.Controllers
     public class ValuesController : Controller
     {
 
+        
         [Authorize(AuthenticationSchemes = OAuthIntrospectionDefaults.AuthenticationScheme)]
         // GET api/values
         [HttpGet]

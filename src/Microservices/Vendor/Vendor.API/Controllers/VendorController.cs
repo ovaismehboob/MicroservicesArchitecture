@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
+using APIComponents.Controllers;
 using AspNet.Security.OAuth.Introspection;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using Vendor.API.Commands;
 using Vendor.API.Notifications;
 using Vendor.API.ViewModels;
@@ -16,13 +18,15 @@ namespace Vendor.API.Controllers
 {
     [Produces("application/json")]
     [Route("api/Vendor")]
-    public class VendorController : Controller
+    public class VendorController : BaseController
     {
         private readonly IMediator _mediator;
+        private ILogger _logger;
 
-        public VendorController(IMediator mediator)
+        public VendorController(IMediator mediator, ILogger logger): base(logger)
         {
             _mediator = mediator;
+            _logger = logger;
         }
 
         // GET: api/VendorMaster
@@ -44,12 +48,19 @@ namespace Vendor.API.Controllers
         [HttpPost]
         public void Post([FromBody]VendorViewModel value)
         {
-            bool result=_mediator.Send(new CreateVendorCommand(value)).Result;
-            if (result)
+            try
             {
-                //Record saved succesfully, publishing event now
-                _mediator.Publish(new CreateVendorNotification(value));
+                bool result = _mediator.Send(new CreateVendorCommand(value)).Result;
+                if (result)
+                {
+                    //Record saved succesfully, publishing event now
+                    _mediator.Publish(new CreateVendorNotification(value));
+                }
+            }catch(Exception ex)
+            {
+                _logger.LogError(ex.Message);
             }
+           
             
 
         }

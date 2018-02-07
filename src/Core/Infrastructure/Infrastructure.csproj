@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <Compile Remove="Data\EFRepository.cs" />
+    <Compile Remove="Data\FraymsDBContext.cs" />
+    <Compile Remove="Data\IAsyncRepository.cs" />
     <Compile Remove="Data\UnitOfWork.cs" />
   </ItemGroup>
 

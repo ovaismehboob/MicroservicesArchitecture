@@ -4,10 +4,11 @@ using Order.Domain.Models.OrderModel;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace Order.Infrastructure
 {
-    public class OrderDBContext : FraymsDBContext
+    public class OrderDBContext : DbContext, IUnitOfWork
     {
 
         public OrderDBContext(DbContextOptions options) : base(options)
@@ -24,6 +25,23 @@ namespace Order.Infrastructure
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+        }
+
+        public void BeginTransaction()
+        {
+            this.Database.BeginTransaction();
+        }
+        public void RollbackTransaction()
+        {
+            this.Database.RollbackTransaction();
+        }
+        public void CommitTransaction()
+        {
+            this.Database.CommitTransaction();
+        }
+        public Task<bool> SaveChangesAsync()
+        {
+            return this.SaveChangesAsync();
         }
 
         #region Entities representing Vendor Domain Objects

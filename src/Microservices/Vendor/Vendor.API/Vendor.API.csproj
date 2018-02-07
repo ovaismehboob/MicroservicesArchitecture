@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\API\APIComponents\APIComponents.csproj" />
     <ProjectReference Include="..\Vendor.Domain\Vendor.Domain.csproj" />
     <ProjectReference Include="..\Vendor.Infrastructure\Vendor.Infrastructure.csproj" />
   </ItemGroup>
