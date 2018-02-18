@@ -19,6 +19,8 @@ namespace APIComponents.Controllers
         }
 
         public ILogger Logger { get { return _logger; } }
+
+        [NonAction]
         public HttpResponseMessage LogException(Exception ex)
         {
             HttpResponseMessage message = new HttpResponseMessage();
