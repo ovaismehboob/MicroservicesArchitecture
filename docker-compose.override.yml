@@ -7,21 +7,6 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
       - "80"
-  identity.api:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"
-  admin.api:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"
-  order.api:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"
 networks:
   default:
     external:

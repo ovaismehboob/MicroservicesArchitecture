@@ -30,17 +30,16 @@ namespace Order.Infrastructure.Repositories
             return _context.OrderMaster.Add(orderMaster).Entity;
         }
 
-        public IQueryable<T> All<T>() where T : class => throw new NotImplementedException();
-        public bool Contains<T>(Expression<Func<T, bool>> predicate) where T : class => throw new NotImplementedException();
+        public IQueryable<T> All<T>() where T : BaseEntity => throw new NotImplementedException();
+        public bool Contains<T>(Expression<Func<T, bool>> predicate) where T : BaseEntity => throw new NotImplementedException();
 
         public void Delete(int orderLineItemID)
         { 
             
         }
 
-        public T Find<T>(Expression<Func<T, bool>> predicate) where T : class => throw new NotImplementedException();
+        public T Find<T>(Expression<Func<T, bool>> predicate) where T : BaseEntity => throw new NotImplementedException();
         public Task<OrderMaster> GetAsync(int vendorID) => throw new NotImplementedException();
-        public T Single<T>(Expression<Func<T, bool>> expression) where T : class => throw new NotImplementedException();
         public void Update(OrderMaster orderMaster) => throw new NotImplementedException();
     }
 }

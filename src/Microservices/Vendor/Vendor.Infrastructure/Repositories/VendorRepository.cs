@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Vendor.Domain.Models.VendorModel;
 using Vendor.Models.VendorModel;
+using static Infrastructure.Data.BaseEntity;
 
 namespace Vendor.Infrastructure.Repositories
 {
@@ -34,14 +35,43 @@ namespace Vendor.Infrastructure.Repositories
             var res= _dbContext.Add(vendorMaster);
             return res.Entity;
         }
+        
+        public void AddDocument(VendorDocument vendorDocument)
+        {
+            var res = _dbContext.Add(vendorDocument);
+        }
 
-        public void Add(VendorDocument vendorDocument) => throw new NotImplementedException();
-        public IQueryable<T> All<T>() where T : class => throw new NotImplementedException();
-        public bool Contains<T>(Expression<Func<T, bool>> predicate) where T : class => throw new NotImplementedException();
-        public void Delete(int vendorDocumentID) => throw new NotImplementedException();
-        public T Find<T>(Expression<Func<T, bool>> predicate) where T : class => throw new NotImplementedException();
-        public Task<VendorMaster> GetAsync(int vendorID) => throw new NotImplementedException();
-        public T Single<T>(Expression<Func<T, bool>> expression) where T : class => throw new NotImplementedException();
-        public void Update(VendorMaster vendorMaster) => throw new NotImplementedException();
+        public void Update(VendorMaster vendorMaster)
+        {
+            _dbContext.Entry(vendorMaster).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
+        }
+
+        public async Task<VendorMaster> GetAsync(int vendorID)
+        {
+            var vendorMaster = await _dbContext.VendorMaster.FindAsync(vendorID);
+            if (vendorMaster != null)
+            {
+                await _dbContext.Entry(vendorMaster)
+                    .Collection(i => i.VendorDocuments).LoadAsync();
+            }
+            return vendorMaster;
+        }
+
+
+        public IQueryable<T> All<T>() where T : BaseEntity
+        {
+            return _dbContext.Set<T>().AsQueryable();
+        }
+
+        public bool Contains<T>(Expression<Func<T, bool>> predicate) where T : BaseEntity
+        {
+            return _dbContext.Set<T>().Count<T>(predicate) > 0;
+        }
+
+        public T Find<T>(Expression<Func<T, bool>> predicate) where T : BaseEntity
+        {
+            return _dbContext.Set<T>().FirstOrDefault<T>(predicate);
+        }
+        
     }
 }

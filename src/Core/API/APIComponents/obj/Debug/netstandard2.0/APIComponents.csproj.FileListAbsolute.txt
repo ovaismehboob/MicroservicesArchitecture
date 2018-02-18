@@ -1,0 +1,42 @@
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.dll
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\APIComponents.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Core\API\APIComponents\obj\Debug\netstandard2.0\APIComponents.pdb

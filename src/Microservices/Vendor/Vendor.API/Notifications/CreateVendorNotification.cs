@@ -11,8 +11,8 @@ namespace Vendor.API.Notifications
     public class CreateVendorNotification : INotification
     {
 
-        public VendorViewModel _vendorVM;
-        public CreateVendorNotification(VendorViewModel vendorVM)
+        public VendorMaster _vendorVM;
+        public CreateVendorNotification(VendorMaster vendorVM)
         {
             _vendorVM = vendorVM;
         }

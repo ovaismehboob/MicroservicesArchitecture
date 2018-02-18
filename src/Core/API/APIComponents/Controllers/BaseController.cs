@@ -12,18 +12,19 @@ namespace APIComponents.Controllers
     {
         IRepository<BaseEntity> _repository;
         private ILogger _logger;
-        public BaseController(ILogger logger)
+        public BaseController(ILogger<BaseController> logger)
         {
             _logger = logger;
 
         }
 
         public ILogger Logger { get { return _logger; } }
-        public void LogException(Exception ex)
+        public HttpResponseMessage LogException(Exception ex)
         {
             HttpResponseMessage message = new HttpResponseMessage();
             message.Content = new StringContent(ex.Message);
             message.StatusCode = System.Net.HttpStatusCode.ExpectationFailed;
+            return message;
         }
 
 

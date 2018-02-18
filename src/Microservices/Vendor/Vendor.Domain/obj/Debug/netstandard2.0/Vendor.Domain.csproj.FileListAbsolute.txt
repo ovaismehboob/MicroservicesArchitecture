@@ -1,0 +1,30 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Vendor.Domain.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Vendor\Vendor.Domain\obj\Debug\netstandard2.0\Vendor.Domain.pdb

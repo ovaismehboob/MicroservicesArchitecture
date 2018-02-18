@@ -1,0 +1,39 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Infrastructure\obj\Debug\netstandard2.0\Order.Infrastructure.pdb

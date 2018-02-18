@@ -1,0 +1,11 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.runtimeconfig.dev.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\bin\Debug\netcoreapp2.0\Identity.API.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Identity\Identity.API\obj\Debug\netcoreapp2.0\Identity.API.csprojResolveAssemblyReference.cache

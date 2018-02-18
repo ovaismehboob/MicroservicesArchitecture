@@ -1,0 +1,17 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  vendor.api:
+    build:
+      context: D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms
+      dockerfile: src\Microservices\Vendor\Vendor.API\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionString: Server=tfxdubaidb.database.windows.net;Database=elasticdbserver;User
+        Id=ovais;Password=P@ssw0rd;
+    image: vendor.api
+    ports:
+    - 80/tcp
+version: '3.0'

@@ -5,6 +5,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Threading.Tasks;
 using Vendor.API.ViewModels;
+using Vendor.Models.VendorModel;
 
 namespace Vendor.API.Commands
 {
@@ -12,13 +13,12 @@ namespace Vendor.API.Commands
     {
 
         [DataMember]
-        public VendorViewModel VendorViewModel { get; set; }
+        public VendorMaster VendorMaster { get; set; }
 
-        public CreateVendorCommand(VendorViewModel vendorViewModel)
+        public CreateVendorCommand(VendorMaster vendorMaster)
         {
-            VendorViewModel = vendorViewModel;
+            VendorMaster = vendorMaster;
         }
-
 
     }
 }

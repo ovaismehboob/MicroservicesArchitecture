@@ -1,0 +1,22 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.runtimeconfig.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.runtimeconfig.dev.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\bin\Debug\netcoreapp2.0\Identity.AuthServer.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\AuthServer\Identity.AuthServer\obj\Debug\netcoreapp2.0\Identity.AuthServer.pdb

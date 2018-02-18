@@ -21,7 +21,16 @@ namespace Vendor.API.EventHandlers
 
         public async Task<bool> Handle(CreateVendorCommand command, CancellationToken cancellationToken)
         {
-            _vendorRepository.Add(new VendorMaster { AddressLine1 = "asdasd", City = "Karachi" });
+
+            _vendorRepository.UnitOfWork.BeginTransaction();
+            try
+            {
+                _vendorRepository.Add(command.VendorMaster);
+                _vendorRepository.UnitOfWork.CommitTransaction();
+            }catch(Exception ex)
+            {
+                _vendorRepository.UnitOfWork.RollbackTransaction();
+            }
             return await _vendorRepository.UnitOfWork.SaveChangesAsync();
         }
     }

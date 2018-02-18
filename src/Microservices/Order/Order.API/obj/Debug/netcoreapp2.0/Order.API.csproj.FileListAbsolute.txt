@@ -1,0 +1,55 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.API.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.dev.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.API.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\Order.API\obj\Debug\netcoreapp2.0\Order.API.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.dev.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\APIComponents.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\APIComponents.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.runtimeconfig.dev.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.API.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\APIComponents.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\APIComponents.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Domain.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Order.Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.API\obj\Debug\netcoreapp2.0\Order.API.pdb

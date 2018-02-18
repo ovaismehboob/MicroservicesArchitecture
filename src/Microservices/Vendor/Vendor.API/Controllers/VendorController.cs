@@ -10,9 +10,11 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using Vendor.API.AggregateModels;
 using Vendor.API.Commands;
 using Vendor.API.Notifications;
 using Vendor.API.ViewModels;
+using Vendor.Models.VendorModel;
 
 namespace Vendor.API.Controllers
 {
@@ -23,58 +25,55 @@ namespace Vendor.API.Controllers
         private readonly IMediator _mediator;
         private ILogger _logger;
 
-        public VendorController(IMediator mediator, ILogger logger): base(logger)
+        public VendorController(IMediator mediator, ILogger<VendorController> logger) : base(logger)
         {
             _mediator = mediator;
             _logger = logger;
         }
 
-        // GET: api/VendorMaster
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
-        // GET: api/VendorMaster/5
-        [HttpGet("{id}", Name = "Get")]
-        public string Get(int id)
-        {
-            return "value";
-        }
-
         [Authorize(AuthenticationSchemes = OAuthIntrospectionDefaults.AuthenticationScheme)]
         // POST: api/VendorMaster
         [HttpPost]
-        public void Post([FromBody]VendorViewModel value)
+        public void Post([FromBody]VendorMaster value)
         {
             try
             {
+
                 bool result = _mediator.Send(new CreateVendorCommand(value)).Result;
                 if (result)
                 {
                     //Record saved succesfully, publishing event now
                     _mediator.Publish(new CreateVendorNotification(value));
                 }
-            }catch(Exception ex)
+            }
+            catch (Exception ex)
             {
                 _logger.LogError(ex.Message);
             }
-           
-            
+        }
+
+
+        public IActionResult Get(int vendorID)
+        {
+            try
+            {
+                VendorOrders vendorOrders = _mediator.Send(new GetVendorOrdersCommand(vendorID)).Result;
+                return Ok(vendorOrders);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex.Message);
+                return NotFound();
+            }
 
         }
 
-        // PUT: api/VendorMaster/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
+
+        [HttpGet]
+        public IEnumerable<string> Get()
         {
-        }
-        
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
+            return new string[] { "value1", "value2" };
         }
     }
+
 }

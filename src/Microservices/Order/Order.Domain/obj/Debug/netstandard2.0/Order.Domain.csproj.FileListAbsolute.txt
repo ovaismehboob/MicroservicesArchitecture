@@ -1,0 +1,35 @@
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csprojResolveAssemblyReference.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+D:\BusinessFrayms\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.deps.json
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Order.Domain.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csprojResolveAssemblyReference.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.csproj.CoreCompileInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfoInputs.cache
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.AssemblyInfo.cs
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.dll
+D:\Authoring\C#7.0NetCore2.0\My Chapters\BusinessFrayms\src\Microservices\Order\Order.Domain\obj\Debug\netstandard2.0\Order.Domain.pdb

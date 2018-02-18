@@ -87,24 +87,7 @@ namespace Identity.AuthServer
                 // This method should only be used during development.
                 options.AddEphemeralSigningKey();
 
-                // On production, using a X.509 certificate stored in the machine store is recommended.
-                // You can generate a self-signed certificate using Pluralsight's self-cert utility:
-                // https://s3.amazonaws.com/pluralsight-free/keith-brown/samples/SelfCert.zip
-                //
-                // options.AddSigningCertificate("7D2A741FE34CC2C7369237A5F2078988E17A6A75");
-                //
-                // Alternatively, you can also store the certificate as an embedded .pfx resource
-                // directly in this assembly or in a file published alongside this project:
-                //
-                // options.AddSigningCertificate(
-                //     assembly: typeof(Startup).GetTypeInfo().Assembly,
-                //     resource: "AuthorizationServer.Certificate.pfx",
-                //     password: "OpenIddict");
-
-                // Note: to use JWT access tokens instead of the default
-                // encrypted format, the following line is required:
-                //
-                 options.UseJsonWebTokens();
+                options.UseJsonWebTokens();
             });
 
             services.AddAuthentication()
